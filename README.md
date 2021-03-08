@@ -1,4 +1,4 @@
-# PSD.js
+# PSD.js is FORKED from [PSD lib](https://github.com/meltingice/psd.js))
 
 [![Build Status](https://travis-ci.org/meltingice/psd.js.svg?branch=master)](https://travis-ci.org/meltingice/psd.js)
 [![Help Contribute to Open Source](https://www.codetriage.com/meltingice/psd.js/badges/users.svg)](https://www.codetriage.com/meltingice/psd.js)

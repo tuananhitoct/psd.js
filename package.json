@@ -1,5 +1,5 @@
 {
-  "name": "psd",
+  "name": "@tuananhitoct/psd",
   "description": "A general purpose Photoshop file parser.",
   "version": "3.2.0",
   "main": "./index.js",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:meltingice/psd.js.git"
+    "url": "git+ssh://git@github.com/meltingice/psd.js.git"
   },
   "dependencies": {
     "coffee-script": "~ 1.7.1",
@@ -38,5 +38,17 @@
     "rimraf": "~ 2.2.8",
     "should": "~ 3.3.1",
     "uglify-js": "^2.4.21"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/meltingice/psd.js/issues"
+  },
+  "homepage": "https://github.com/meltingice/psd.js#readme",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": "meltingice",
+  "license": "ISC"
 }
